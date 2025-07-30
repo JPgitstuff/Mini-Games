@@ -45,8 +45,23 @@ A classic card-flipping game to challenge your short-term memory.
 
 - **Languages**: HTML5, CSS3, JavaScript (Vanilla)
 - **No external frameworks** – built from scratch for learning and fun!
-
 ---
 
 ## 📂 Project Structure
+
+├── accuracy-game/
+│ ├── index.html
+│ ├── css/
+│ │ └── accuracygame.css
+├── memory-game/
+│ ├── index.html
+│ ├── css/
+│ │ └── Memory_gamestyle.css
+
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/mini-games.git
 
