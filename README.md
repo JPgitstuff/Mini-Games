@@ -49,19 +49,20 @@ A classic card-flipping game to challenge your short-term memory.
 
 ## 📂 Project Structure
 
-├── accuracy-game/
-│ ├── index.html
-│ ├── css/
-│ │ └── accuracygame.css
-├── memory-game/
-│ ├── index.html
-│ ├── css/
-│ │ └── Memory_gamestyle.css
-
+<pre> 
+   ├── accuracy-game/ 
+   │ ├── index.html 
+   │ ├── css/ 
+   │ │ └── accuracygame.css 
+   ├── memory-game/ 
+   │ ├── index.html 
+   │ ├── css/ │ 
+   │ └── Memory_gamestyle.css 
+</pre>
 
 ## 🚀 How to Run
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mini-games.git
+   git clone https://github.com/JPgitstuff/mini-games.git
 
